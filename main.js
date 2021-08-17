@@ -1,6 +1,6 @@
 'use strict';
 
-function DomElement(selector, height, width, background, fontSize, position, top, right, left, down) {
+function DomElement(selector, height, width, background, fontSize, position) {
     this.selector = selector;
     this.height = height;
     this.width = width;
